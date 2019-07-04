@@ -1,1 +1,2 @@
+- Install: `cnpm install`
 - Run babel: `cnpm run babel`, output will be put into lib folder.
